@@ -1,0 +1,105 @@
+.container {
+    margin-bottom: 100px;
+}
+.home-slider {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.slider-item-price {
+    display: block;
+    color: #FF136F;
+    font-size: 2.5rem;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.cat1 {
+    background-color: orange;
+}
+
+.cat2 {
+    background-color: orchid;
+}
+
+.cat3 {
+    background-color: blue;
+}
+
+.shop-categories h1 {
+    color: white;
+}
+
+.shop-categories img {
+    width: 100px;
+}
+
+.shoes h3 {
+    margin-bottom: 50px;
+}
+
+.shoes button {
+    margin: 20px 0;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.backpack h3 {
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+
+.card-footer {
+    border: none;
+}
+
+.subscribe {
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.subscribe h6 {
+    color: gray;
+}
+
+input {
+    margin-top: 30px;
+    padding: 8px 25px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    
+
+}
+
+footer {
+
+    text-align: center;
+}
+
